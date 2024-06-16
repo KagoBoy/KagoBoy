@@ -1,4 +1,5 @@
 ### Olá! Eu sou Yan Victor 👋🏽
+Sou estudante de Sistemas da Informação na Universidade Federal de Sergipe
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-nascimento-a12688227/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yanvictoraraujo/)
@@ -24,6 +25,7 @@
 
     
 </div>
+
 
 Apaixonado por tecnologia, educação e criar ferramentas para melhorar o dia a dia.
 
