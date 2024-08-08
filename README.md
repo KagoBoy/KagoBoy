@@ -7,7 +7,7 @@ Sou estudante de Sistemas da Informação na Universidade Federal de Sergipe
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kagoboy&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kagoboy&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kagoboy&layout=pie&theme=tokyonight&langs_count=8)
 
 ## Tecnologias que uso no meu dia
 <div style="display: inline_block"><br/>
