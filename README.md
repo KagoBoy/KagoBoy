@@ -32,4 +32,5 @@ Apaixonado por tecnologia, educação e criar ferramentas para melhorar o dia a 
 
 ## Últimos projetos:
 - [Web-Site de vendas de produtos feito em Angular](https://kagoboy.github.io/yan-computers/)
+- [Furia Fan-Bot](https://furia-fan-bot-ebon.vercel.app/)
 
